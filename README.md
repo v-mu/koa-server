@@ -11,5 +11,6 @@
 - /storage   缓存 日志 上传目录
 - /test      测试单元
 - /vendor    第三方
+- index.js   入口文件
 
 
